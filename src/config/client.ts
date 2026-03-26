@@ -79,7 +79,7 @@ export const client = {
 
   // Reviews — placeholder
   reviews: [
-    { name: "James Latimir-Jones", rating: 5, text: "Our project involved clearing the existing garden, redoing the patio (including a new wall + foundations), laying new patios, new lawn, and installing a new fence for most of the perimeter. Mark and his team were great to deal with from the …  ", date: "2 years ago" },
+    { name: "James Latimir-Jones", rating: 5, text: "Our project involved clearing the existing garden, redoing the patio (including a new wall + foundations), laying new patios, new lawn, and installing a new fence for most of the perimeter. Mark and his team were great to deal with from the first consultation to the end - happy to give thoughts and advice which was appreciated given the scale of the work. They worked through some horrible weather, and stuck to time and budget. They were friendly, kept everything tidy and the neighbours have been happy. They clearly take pride in their work, and it shows in the end result. Thanks so much!", date: "2 years ago", badge: "Local Guide" },
   ] as { name: string; rating: number; text: string; date: string; badge?: string }[],
 
   // SEO
